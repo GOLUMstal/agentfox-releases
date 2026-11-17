@@ -1,7 +1,13 @@
 {
   "addons": {
     "agentfox@willow.sh": {
-      "updates": []
+      "updates": [
+        {
+          "version": "0.1.2",
+          "update_link": "https://golumstal.github.io/agentfox-releases/xpi/agent_fox-0.1.2.xpi",
+          "update_hash": "sha256:64c89d6d4c7e9b3b71b43befe618008821802442979663b594d2667c2dffe4a6"
+        }
+      ]
     }
   }
 }
