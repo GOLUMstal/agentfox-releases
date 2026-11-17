@@ -1,7 +1,7 @@
 {
-  "version": "0.1.2",
-  "url": "https://golumstal.github.io/agentfox-releases/server/agentfox-server-0.1.2.tar.gz",
-  "sha256": "566085f175a9bfcf6bc3363f4b231d5510bb9a1d998953f950e87066c704330c",
-  "xpi": "https://golumstal.github.io/agentfox-releases/xpi/agent_fox-0.1.2.xpi",
+  "version": "0.1.3",
+  "url": "https://golumstal.github.io/agentfox-releases/server/agentfox-server-0.1.3.tar.gz",
+  "sha256": "58dbd9262efc45f1822b337e670f7d9ed487e3fdbc83ab87832da5822740f6bd",
+  "xpi": "https://golumstal.github.io/agentfox-releases/xpi/agent_fox-0.1.3.xpi",
   "minNode": 18
 }
